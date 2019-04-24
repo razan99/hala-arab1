@@ -411,7 +411,7 @@ p {
 /* stcicky css */
 
 .header_area.sticky {
-    background-color: #884bdf;
+    background-color:#5c3bb3;
     -webkit-box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
             box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     height: 70px;
@@ -584,7 +584,7 @@ p.mb-0 {
 
 .single-special > h4 {
     font-size: 22px;
-    color: #5b32b4;
+    color: #3f04da;
 }
 
 .single-icon {
@@ -593,7 +593,7 @@ p.mb-0 {
 
 .single-special > h4 {
     font-size: 22px;
-    color: #5b32b4;
+    color: #3f04da;
     margin-bottom: 15px;
 }
 
@@ -788,12 +788,12 @@ p {
 .cool_facts_area {
     position: relative;
     z-index: auto;
-    background: #a865e1;
-    background: -webkit-linear-gradient(to left, #7873ed, #a865e1);
-    background: -webkit-linear-gradient(right, #7873ed, #a865e1);
-    background: -webkit-gradient(linear, right top, left top, from(#7873ed), to(#a865e1));
-    background: -o-linear-gradient(right, #7873ed, #a865e1);
-    background: linear-gradient(to left, #7873ed, #a865e1);
+    background: #5c3bb3;
+    background: -webkit-linear-gradient(to left, #7873ed, #5c3bb3);
+    background: -webkit-linear-gradient(right, #7873ed, #5c3bb3);
+    background: -webkit-gradient(linear, right top, left top, from(#7873ed), to(#5c3bb3));
+    background: -o-linear-gradient(right, #7873ed, #5c3bb3);
+    background: linear-gradient(to left, #7873ed, #5c3bb3);
     padding: 180px 0 80px 0;
     top: -100px;
 }
@@ -947,7 +947,7 @@ p {
 .single-price-plan.active .package-plan,
 .single-price-plan.active .plan-button > a,
 .single-price-plan:hover .plan-button > a {
-    background-color: #6046cf;
+    background-color: #5c3bb3;
 }
 
 .single-price-plan.active .package-plan .ca-price > h4,
@@ -962,7 +962,7 @@ p {
 -------------------------- */
 
 .clients-feedback-area .client-name > h5 {
-    color: #5b32b4;
+    color: #5c3bb3;
     font-size: 22px;
     margin-top: 5px;
 }
@@ -981,7 +981,7 @@ p {
 
 .clients-feedback-area .client > i {
     font-size: 48px;
-    color: #897ceb;
+    color: #5c3bb3;
     margin-bottom: 30px;
 }
 
@@ -1076,11 +1076,11 @@ p {
 
 .our-monthly-membership {
     background: #a865e1;
-    background: -webkit-linear-gradient(to left, #7873ed, #a865e1);
-    background: -webkit-linear-gradient(right, #7873ed, #a865e1);
-    background: -webkit-gradient(linear, right top, left top, from(#7873ed), to(#a865e1));
-    background: -o-linear-gradient(right, #7873ed, #a865e1);
-    background: linear-gradient(to left, #7873ed, #a865e1);
+    background: -webkit-linear-gradient(to left, #7873ed, #5c3bb3);
+    background: -webkit-linear-gradient(right, #7873ed, #5c3bb3);
+    background: -webkit-gradient(linear, right top, left top, from(#7873ed), to(#5c3bb3));
+    background: -o-linear-gradient(right, #7873ed, #5c3bb3);
+    background: linear-gradient(to left, #7873ed, #5c3bb3);
 }
 
 .membership-description > h2 {
@@ -1094,20 +1094,20 @@ p {
 }
 
 .get-started-button > a {
-    background: #ffffff;
+    background: #ed3932;
     height: 45px;
     min-width: 155px;
     display: inline-block;
     text-align: center;
     line-height: 45px;
-    color: #ed3932;
+    color: #fff;
     font-weight: 500;
     border-radius: 23px 23px 23px 0;
 }
 
 .get-started-button > a:hover {
-    background: #5b32b4;
-    color: #fff;
+    background: #fff;
+    color: #ed3932;
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
     transition-duration: 500ms;
@@ -1139,7 +1139,7 @@ p {
 
 .member-text > h4 {
     font-size: 22px;
-    color: #5b32b4;
+    color: #5b3bb2;
 }
 
 .member-text > p {
