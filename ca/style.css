@@ -445,6 +445,7 @@ p {
     background-size: cover;
 }
 
+
 .wellcome_area:after {
     position: absolute;
     width: 100%;
@@ -537,7 +538,7 @@ p.mb-0 {
     display: inline-block;
     border: none;
     height: 50px;
-    min-width: 167px;
+    min-width: 209px;
     line-height: 46px;
     text-align: center;
     border-radius: 24px 24px 24px 0px;
@@ -641,7 +642,7 @@ p {
     -ms-flex-preferred-size: 1;
     flex-basis: 1;
     margin-top: 50px; */
-}
+
 
 .app-download-btn a {
     background-color: #ed3932;
@@ -793,7 +794,7 @@ p {
     background: -webkit-linear-gradient(right, #7873ed, #5c3bb3);
     background: -webkit-gradient(linear, right top, left top, from(#7873ed), to(#5c3bb3));
     background: -o-linear-gradient(right, #7873ed, #5c3bb3);
-    background: linear-gradient(to left, #7873ed, #5c3bb3);
+    background: linear-gradient(to left, #7873ed, #7873ed);
     padding: 180px 0 80px 0;
     top: -100px;
 }
@@ -1096,7 +1097,7 @@ p {
 .get-started-button > a {
     background: #ed3932;
     height: 45px;
-    min-width: 155px;
+    min-width: 242px;
     display: inline-block;
     text-align: center;
     line-height: 45px;
